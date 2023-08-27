@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "lib-1970-1979-article",
     "section": "",
-    "text": "Bradley, J. V. (1978). Robustness? British Journal of Mathematical\nand Statistical Psychology, 31(2), 144–152. https://doi.org/10.1111/j.2044-8317.1978.tb00581.x\n\n\nRubin, D. B. (1976). Inference and missing data. Biometrika,\n63(3), 581–592. https://doi.org/10.1093/biomet/63.3.581"
+    "text": "Bradley, J. V. (1978). Robustness? British Journal of Mathematical\nand Statistical Psychology, 31(2), 144–152. https://doi.org/10.1111/j.2044-8317.1978.tb00581.x\n\n\nEfron, B. (1979a). Bootstrap methods: Another look at the jackknife.\nThe Annals of Statistics, 7(1). https://doi.org/10.1214/aos/1176344552\n\n\nEfron, B. (1979b). Computers and the theory of statistics: Thinking the\nunthinkable. SIAM Review, 21(4), 460–480.\nhttps://doi.org/10.1137/1021092\n\n\nRubin, D. B. (1976). Inference and missing data. Biometrika,\n63(3), 581–592. https://doi.org/10.1093/biomet/63.3.581"
   },
   {
     "objectID": ".setup/quarto/tags/tags.html",
     "href": ".setup/quarto/tags/tags.html",
     "title": "Library Tags",
     "section": "",
-    "text": "key\nannotation\nkeywords\n\n\n\n\nBradley-1978\nBradley-1978\nrobustness\nNULL\n\n\nRubin-1976\nRubin-1976\nNULL\nNULL"
+    "text": "key\nannotation\nkeywords\n\n\n\n\nBradley-1978\nBradley-1978\nrobustness\nNULL\n\n\nEfron-1979a\nEfron-1979a\nNULL\nbootstrap, discriminant analysis, error rate estimation, jackknife, nonlinear regression, nonparametric variance estimation, resampling, subsample values\n\n\nEfron-1979b\nEfron-1979b\nNULL\nNULL\n\n\nRubin-1976\nRubin-1976\nNULL\nNULL"
   },
   {
     "objectID": ".setup/quarto/session/session.html#session",

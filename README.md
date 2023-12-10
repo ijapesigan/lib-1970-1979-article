@@ -1,7 +1,7 @@
 lib-1970-1979-article
 ================
 Ivan Jacob Agaloos Pesigan
-2023-11-06
+2023-12-10
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -73,6 +73,15 @@ Nesselroade, J. R., & Cable, D. G. (1974). Sometimes, it’s okay to
 factor difference scores" - the separation of state and trait anxiety.
 *Multivariate Behavioral Research*, *9*(3), 273–284.
 <https://doi.org/10.1207/s15327906mbr0903_3>
+
+</div>
+
+<div id="ref-Osborne-Suddick-1972" class="csl-entry">
+
+Osborne, R. T., & Suddick, D. E. (1972). A longitudinal investigation of
+the intellectual differentiation hypothesis. *The Journal of Genetic
+Psychology*, *121*(1), 83–89.
+<https://doi.org/10.1080/00221325.1972.10533131>
 
 </div>
 

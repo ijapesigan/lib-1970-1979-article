@@ -1,7 +1,7 @@
 lib-1970-1979-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-02-12
+2024-04-28
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -47,6 +47,14 @@ Efron, B. (1979a). Bootstrap methods: Another look at the jackknife.
 Efron, B. (1979b). Computers and the theory of statistics: Thinking the
 unthinkable. *SIAM Review*, *21*(4), 460–480.
 <https://doi.org/10.1137/1021092>
+
+</div>
+
+<div id="ref-Engel-1977" class="csl-entry">
+
+Engel, G. L. (1977). The need for a new medical model: A challenge for
+biomedicine. *Science*, *196*(4286), 129–136.
+<https://doi.org/10.1126/science.847460>
 
 </div>
 

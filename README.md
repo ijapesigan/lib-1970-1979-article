@@ -16,7 +16,7 @@ Check](https://github.com/ijapesigan/lib-1970-1979-article/actions/workflows/she
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent"
-line-spacing="2">
+entry-spacing="0" line-spacing="2">
 
 <div id="ref-Bradley-1978" class="csl-entry">
 

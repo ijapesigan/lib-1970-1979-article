@@ -1,7 +1,7 @@
 lib-1970-1979-article
 ================
 Ivan Jacob Agaloos Pesigan
-2026-10-26
+2026-11-01
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -117,6 +117,14 @@ Psychology*, *121*(1), 83–89.
 
 Rubin, D. B. (1976). Inference and missing data. *Biometrika*, *63*(3),
 581–592. <https://doi.org/10.1093/biomet/63.3.581>
+
+</div>
+
+<div id="ref-VanLoan-1978" class="csl-entry">
+
+Van Loan, C. F. (1978). Computing integrals involving the matrix
+exponential. *IEEE Transactions on Automatic Control*, *23*(3), 395–404.
+<https://doi.org/10.1109/tac.1978.1101743>
 
 </div>
 

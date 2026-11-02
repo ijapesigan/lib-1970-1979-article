@@ -37,6 +37,14 @@ Statistical Psychology*, *31*(2), 144–152.
 
 </div>
 
+<div id="ref-Breusch-Pagan-1979" class="csl-entry">
+
+Breusch, T. S., & Pagan, A. R. (1979). A simple test for
+heteroscedasticity and random coefficient variation. *Econometrica*,
+*47*(5), 1287–1294. <https://doi.org/10.2307/1911963>
+
+</div>
+
 <div id="ref-Cronbach-Furby-1970" class="csl-entry">
 
 Cronbach, L. J., & Furby, L. (1970). How we should measure “change”: Or
